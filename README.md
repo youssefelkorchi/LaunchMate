@@ -20,7 +20,7 @@ A modern, responsive landing page built with React, Vite, TypeScript, and Tailwi
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone 'https://github.com/youssefelkorchi/LaunchMate.git'
     cd LaunchMate
     ```
 2.  **Install dependencies:**
@@ -60,4 +60,4 @@ This will generate the production-ready files in the `dist` directory.
 
 ## License
 
-(Specify your project's license here, e.g., MIT,
+This project is licensed under the [Your License Name] License - see the [LICENSE](LICENSE) file for details.

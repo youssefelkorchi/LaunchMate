@@ -152,7 +152,7 @@ function App() {
           </div>
         </div>
 
-        {/* Enhanced Mobile Menu */}
+        {/* Mobile Menu */}
         <div className={`md:hidden transition-all duration-300 ${mobileMenuOpen ? 'max-h-96 opacity-100' : 'max-h-0 opacity-0'} overflow-hidden bg-white border-t border-gray-100`}>
           <div className="px-4 py-4 space-y-3">
             <a href="#features" className="block py-3 px-4 text-gray-600 hover:text-blue-600 hover:bg-blue-50 rounded-lg transition-all">Features</a>
@@ -165,7 +165,7 @@ function App() {
         </div>
       </nav>
 
-      {/* Enhanced Hero Section */}
+      {/*  Hero Section */}
       <section className="relative bg-gradient-to-br from-blue-50 via-white to-gray-50 py-20 lg:py-32 overflow-hidden">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="text-center max-w-4xl mx-auto">
@@ -225,13 +225,13 @@ function App() {
           </div>
         </div>
         
-        {/* Enhanced floating elements */}
+        {/* floating elements */}
         <div className="absolute top-20 left-10 w-20 h-20 bg-blue-200 rounded-full opacity-60 animate-bounce"></div>
         <div className="absolute bottom-20 right-10 w-32 h-32 bg-gray-200 rounded-full opacity-40 animate-pulse delay-1000"></div>
         <div className="absolute top-1/2 left-1/4 w-16 h-16 bg-blue-300 rounded-full opacity-30 animate-ping delay-500"></div>
       </section>
 
-      {/* Interactive Features Section */}
+      {/* Features Section */}
       <section id="features" className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
@@ -332,7 +332,7 @@ function App() {
         </div>
       </section>
 
-      {/* Enhanced Testimonials Section */}
+      {/* Testimonials Section */}
       <section id="testimonials" className="py-20 bg-gray-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
@@ -616,7 +616,7 @@ function App() {
         </div>
       </section>
 
-      {/* Enhanced Footer */}
+      {/* Footer */}
       <footer className="bg-gray-900 text-white py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-4 gap-8">
